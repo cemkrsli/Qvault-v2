@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+
+# SQLite database
+db.sqlite3
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
