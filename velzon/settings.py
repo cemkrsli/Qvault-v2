@@ -40,13 +40,7 @@ DEFAULT_APPS = [
     'django.contrib.sites',
     
     ]
-LOCAL_APPS = [
-    "dashboards",
-    "apps",
-    "layouts",
-    "components",
-    "pages"
-    ]
+LOCAL_APPS = []
 THIRDPARTY_APPS = [
     
     # Crispy Forms
